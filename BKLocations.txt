@@ -1,0 +1,200 @@
+City,Zip,Address
+Allentown,18103,3105 Hamilton Blvd
+Allentown,18103,1958 S 4th St
+Allentown,18103-7036,3301 Lehigh St
+Altoona,16602,216 E Pleasant Valley Blvd
+Altoona,16602,300 W Plank Rd
+Belle Vernon,15012-1942,763 Rostraver Rd
+Belle Vernon,15012-3535,4309 State Route 51 N
+Bensalem,19020,Street Rd
+Bensalem,19020,1721 State Road
+Bensalem,19020-4352,1712 State Rd
+Bethel Park,15102-1866,25 Highland Rd
+Bethel Park,15102-2715,5240 Library Rd
+Bethlehem,18017,2141 Stefko Blvd
+Bethlehem,18017,3105 Schoenersville Rd
+Bethlehem,18018,2165 W Union Blvd
+Bethlehem,18020,3924 Linden St
+Bloomsburg,17815,191 Columbia Mall Dr
+Bloomsburg,17815,1045 Columbia Blvd
+Blue Bell,19422,1780 Swede Rd
+Blue Bell,19422-3522,1760 Swede Rd
+Butler,16001,1507 N Main Street Ext
+Butler,16001,220 New Castle Rd
+Butler,16001-3226,142 Pittsburgh Rd
+Chambersburg,17201,1066 Lincoln Way E
+Chambersburg,17202,1950 Lincoln Way E
+Chambersburg,17202,2194 Lincoln Way W
+Coatesville,19320,100 Airport Rd
+Coatesville,19320,154 Airport Rd
+Coraopolis,15108,872 Narrows Run Rd
+Coraopolis,15108-2572,5940 University Blvd
+Cranberry Twp,16066,20204 Route 19
+Cranberry Twp,16066-6104,20250 Route 19
+Easton,18042,300 S 25th St
+Easton,18045,3766 Easton Nazareth Hwy
+Erie,16501,118 E 12th St
+Erie,16503,2526 Broad St
+Erie,16505,2563 W 8th St
+Erie,16505-2531,1250 Tower Ln
+Erie,16506,2872 W 26th St
+Erie,16509,7800 Peach St
+Erie,16509,4205 Peach St
+Erie,16510-2113,4315 Buffalo Rd
+Fairview,16415,6360 Sterrettania Rd
+Fairview,16415,7517 W Ridge Rd
+Harrisburg,17103,2000 N Cameron St
+Harrisburg,17109,Jonestown Rd
+Harrisburg,17111,900 E Park Dr
+Harrisburg,17111,4255 Union Deposit Road
+Harrisburg,17111,3253 Paxton St
+Harrisburg,17112,6045 Allentown Blvd
+Hazleton,18201,30 N Church St
+Hazleton,18202,1331 N Church St
+Hazleton,18202,2000 Barletta Rd
+Hazleton,18202,515 N Broad St
+Hermitage,16148,2049 E State St
+Hermitage,16148,590 S Hermitage Rd
+Holmes,19043,Macdade Blvd
+Holmes,19043,2243 Macdade Blvd
+Indiana,15701,475 Ben Franklin Rd S
+Indiana,15701-3540,3100 Oakland Ave
+Johnstown,15904,150 Town Centre Dr
+Johnstown,15904,141 Town Centre Dr
+Johnstown,15904-2936,1500 Scalp Ave
+King of Prussia,19406,275 S Gulph Rd
+King of Prussia,19406,99 Town Center Rd
+Kingston,18704,445 Pierce St
+Kingston,18704,500 3rd Ave
+Lancaster,17601,2098 Fruitville Pike
+Lancaster,17601-4071,1262 Lititz Pike
+Lancaster,17602,1700 Fruitville Pike
+Lancaster,17602,1320 Lititz Pike
+Langhorne,19047,174 Lincoln Hwy
+Langhorne,19047-1811,2424 E Lincoln Hwy
+Lansdale,19446,1555 Sumneytown Pike
+Lansdale,19446-9790,1775 Cowpath Rd
+Lansdale,19446-9798,1991 Main St
+Lebanon,17042,1745 Quentin Rd
+Lebanon,17042,1355 E Lehman St
+Lebanon,17042,175 Rocherty Rd
+Levittown,19056,164 Levittown Pkwy
+Levittown,19057,180 Levittown Ctr
+Levittown,19057-4520,4159 Veterans Hwy
+Lititz,17543,1064 Lititz Pike
+Lititz,17543,1054 Lititz Pike
+Mechanicsburg,17050,6416 Carlisle Pike
+Mechanicsburg,17055,6480 Carlisle Pike
+Mechanicsburg,17055-6933,6416 Carlisle Pike
+Middletown,17057,1 Lindle Rd
+Middletown,17057-5100,450 E Main St
+Monaca,15061,3944 Brodhead Rd
+Monaca,15061-2328,100 Wagner Rd
+Monroeville,15146,4300 Northern Pike
+Monroeville,15146,4200 William Penn Hwy
+Montgomeryville,18936,751 Horsham Rd
+Montgomeryville,18936-9603,650 Cowpath Rd
+Mount Joy,17552,1880 W Main St
+Mount Joy,17552,24 E Main St
+New Castle,16101,2517 W State St
+New Castle,16101,4 N Jefferson St
+New Castle,16105,3100 Ellwood Rd
+Norristown,19401,2641 W Main St
+Norristown,19403,2710 Dekalb Pike
+Norristown,19403-3911,2712 Dekalb Pike
+Philadelphia,19102,8599 Essington Ave
+Philadelphia,19102,1528 John F Kennedy Blvd
+Philadelphia,19104,6729 Essington Ave
+Philadelphia,19106-2345,15 S 8th St
+Philadelphia,19107-3111,901 Market St
+Philadelphia,19111-3401,1624 Cottman Ave
+Philadelphia,19114-2824,9220 Frankford Ave
+Philadelphia,19116,Bustleton Ave
+Philadelphia,19116-2515,11703 Bustleton Ave
+Philadelphia,19120,5675 N Front St
+Philadelphia,19120-1116,5921 Rising Sun Ave
+Philadelphia,19120-2421,101 E Olney Ave
+Philadelphia,19121,1600 N Broad St
+Philadelphia,19123-1820,855 N Broad St
+Philadelphia,19134-4604,2400 Castor Ave
+Philadelphia,19135,6100 Frankford Ave
+Philadelphia,19140,100 W Erie Ave
+Philadelphia,19141-2106,4700 N Broad St
+Philadelphia,19144-3336,165 W Chelten Ave
+Philadelphia,19145-4112,2359 W Oregon Ave
+Philadelphia,19147-5509,1521 S Columbus Blvd
+Philadelphia,19148-4808,2728 S Front St
+Philadelphia,19149-3714,5823 Castor Ave
+Philadelphia,19152-1403,2550 Welsh Rd
+Philadelphia,19153-2022,3000 Island Ave
+Philadelphia,19154,12311 Academy Rd
+Philadelphia,19154-3109,90 Franklin Mills Blvd
+Philadelphia,19154-3135,1883 Franklin Mills Cir
+Phoenixville,19460,363 Schuylkill Rd
+Phoenixville,19460-1899,531 Schuylkill Rd
+Pittsburgh,15202-2833,920 Ohio River Blvd
+Pittsburgh,15202-3847,4260 Ohio River Blvd
+Pittsburgh,15203-1708,1820 E Carson St
+Pittsburgh,15205,2401 Noblestown Rd
+Pittsburgh,15205,6390 Steubenville Pike
+Pittsburgh,15221-2082,1000 Pitt St
+Pittsburgh,15223-1303,909 Butler St
+Pittsburgh,15224,4117 Liberty Ave
+Pittsburgh,15227-1906,2900 Brownsville Rd
+Pittsburgh,15233,725 Allegheny Ave
+Pittsburgh,15234-2631,3220 Library Rd
+Pittsburgh,15235,11655 Frankstown Rd
+Pittsburgh,15235-5411,3410 William Penn Hwy
+Pittsburgh,15236,450 Clairton Blvd
+Pittsburgh,15237-3406,4810 Mcknight Rd
+Pittsburgh,15238-1413,2799 Freeport Rd
+Pittsburgh,15275,415 Home Dr
+Pittsburgh,15275-1205,295 Home Rule St
+Pottstown,19464,1293 N Charlotte St
+Pottstown,19464,1239 N Charlotte St
+Pottstown,19464,1515 E High St
+Pottsville,17901,195 Pottsville St
+Pottsville,17901,6199 Cressona Mall
+Pottsville,17901,2211 W Market St
+Reading,19601,436 Centre Ave
+Reading,19605,3421 N 5th St Hwy
+Reading,19605,3419 North 5th Street Highway
+Reading,19606,4890 Perkiomen Ave
+Reading,19610,1197 Berkshire Blvd
+Reading,19610,1665 State Hill Rd
+Scranton,18504,600 Luzerne St
+Scranton,18508,1813 N Keyser Ave
+Scranton,18508,524 Scranton
+Shamokin Dam,17876,2991 N Susquehanna Trl
+Shamokin Dam,17876,3 10th Ave
+Shavertown,18708,185 Ferguson Ave
+Shavertown,18708,140 N Memorial Hwy
+Somerset,15501,179 N Plaza Access Rd
+Somerset,15501,4167 Glades Pike
+Souderton,18964,730 Route 113
+Souderton,18964-1004,800 Route 113
+State College,16801,3180 W College Ave
+State College,16801,521 University Dr
+Warminster,18974,700 St Rd
+Warminster,18974,580 E Street Rd
+Warren,16365,2023 Market St
+Warren,16365,2715 Market St
+Warren,16365,25 Pennsylvania Ave E
+Warrington,18976,827 Easton Rd
+Warrington,18976-2512,60 Easton Rd
+Washington,15301,Murtland Ave
+Washington,15301,402 Meadowlands Blvd
+Washington,15301-4134,775 Jefferson Ave
+West Chester,19382,1502 West Chester Pike
+West Chester,19382-7705,410 S High St
+Whitehall,18052,2695 Macarthur Rd
+Whitehall,18052,1600 Macarthur Rd
+Wilkes Barre,18702,600 Kidder St
+Wilkes Barre,18705,81 N River St
+Wilkes Barre,18706,693 Carey Ave
+Williamsport,17701,611 Washington Blvd
+Williamsport,17701,50 Maynard St
+York,17402-4953,2695 S Queen St
+York,17402-9201,2400 Mount Rose Ave
+York,17404,2199 White St
+York,17404-1728,490 Loucks Rd
